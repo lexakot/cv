@@ -44,7 +44,7 @@ FrontEnd Developer
 >
 > **A** - React.js / Redux
 >
-> **B** - React Native
+> **A** - React Native
 >
 > **A** - styled-components(css in js)
 >
